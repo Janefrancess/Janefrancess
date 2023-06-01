@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and security 
 - 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on as many challenging projects as possible 
-- 📫 How to reach me @stanleyjanefrancess@gmail.com
+- 📫 How to reach me @stanleychya@gmail.com
 
 <!---
 Janefrancess/Janefrancess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
