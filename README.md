@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stanley Chi
+- 👋 Hi, I’m @Stanley Chi
 - 👀 I’m interested in web development and security 
 - 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on as many challenging projects as possible 
