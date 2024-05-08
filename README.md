@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stanley Chi
+- 👋 Hi, I’m @Stanley Chi Janefrancess
 - 👀 I’m interested in web development and security 
 - 🌱 I’m currently learning full-stack development 
 - 💞️ I’m looking to collaborate on as many challenging projects as possible 
